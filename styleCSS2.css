@@ -46,8 +46,9 @@ h1,h2,h3,h4,h5,h6,p {
 	
 }
 body {
-  background-image: url("papier.gif");
-  background-repeat: repeat-x;
+	background-image: url("papier.gif");
+	background-repeat: no-repeat;
+	background-attachment: scroll;
   
 }
 html{
